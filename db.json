@@ -1,0 +1,32 @@
+{
+  "Users": [
+    {
+      "id":1,
+      "Email": "shafiquecbl@gmail.com",
+      "Name": "Muhammad Shafique",
+      "Department": "SE",
+      "Batch": "B8"
+    },
+    {
+      "id":2,
+      "Email": "shafiquecbl1@gmail.com",
+      "Name": "Muhammad Shafique",
+      "Department": "SE-1",
+      "Batch": "B8-1"
+    },
+    {
+      "id":3,
+      "Email": "shafiquecbl2@gmail.com",
+      "Name": "Muhammad Shafique",
+      "Department": "SE-1",
+      "Batch": "B8-2"
+    },
+    {
+      "id":4,
+      "Email": "shafiquecbl3@gmail.com",
+      "Name": "Muhammad Shafique",
+      "Department": "SE-3",
+      "Batch": "B8-3"
+    }
+  ]
+}
